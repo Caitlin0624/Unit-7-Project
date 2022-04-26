@@ -1,0 +1,26 @@
+.title {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+body {
+    background-color: #F8EDEB;
+ }
+
+h1 {
+    font-family: 'Space Mono', monospace;
+}
+
+p {
+    font-family: 'Space Mono', monospace;
+
+}
+
+img {
+    height: 200px;
+    width: 150px;
+}
+
+.center {
+   text-align: center;
+}
